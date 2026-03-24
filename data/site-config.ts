@@ -3,7 +3,7 @@ export const siteConfig = {
   tagline: "Premium Digital Products for Creators & Professionals",
   description:
     "Discover premium AI prompts, business templates, design resources, and productivity tools. Instant digital downloads to supercharge your workflow.",
-  url: "https://digivault.vercel.app",
+  url: "https://digivault-amber.vercel.app",
   ogImage: "/images/og-default.png",
   author: "DigiVault",
   email: "hello@digivault.com",
